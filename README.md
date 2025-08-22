@@ -13,7 +13,7 @@ A production-style, end-to-end **RFM (Recency–Frequency–Monetary) customer s
 
 ```
 rfm-customer-segmentation/
-├─ rfm_analysis_project.ipynb          # Main notebook (end-to-end pipeline)
+├─ rfm_analysis_projectORIGNAL.ipynb          # Main notebook (end-to-end pipeline)
 ├─ rfm_for_bi.csv                      # Processed RFM table (ready for dashboards)
 ├─ rfm_plotly_dashboard_clean.html     # Polished Plotly dashboard (standalone HTML)
 ├─ rfm_models_roc_plotly.html          # Model ROC comparison (standalone HTML)
@@ -30,9 +30,6 @@ rfm-customer-segmentation/
 ## 🚀 Quickstart
 
 ```bash
-# clone
-git clone https://github.com/<your-username>/rfm-customer-segmentation.git
-cd rfm-customer-segmentation
 
 # create environment (optional) and install
 pip install -r requirements.txt
@@ -73,5 +70,5 @@ Released under the **MIT License** (see `LICENSE`).
 
 ## 🙌 Author
 
-Your Name / Freelancer Alias  
+MURTAZA BAIG / Freelancer Alias  
 Portfolio | Fiverr | Upwork | LinkedIn
