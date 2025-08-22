@@ -35,7 +35,7 @@ rfm-customer-segmentation/
 pip install -r requirements.txt
 
 # run the notebook
-jupyter notebook rfm_analysis_project.ipynb
+jupyter notebook rfm_analysis_projectORIGNAL.ipynb
 ```
 
 To view dashboards without running code, open:
